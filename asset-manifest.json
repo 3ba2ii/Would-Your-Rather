@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Would-Your-Rather/static/css/main.a6b21456.chunk.css",
+    "main.js": "/Would-Your-Rather/static/js/main.c2868b53.chunk.js",
+    "main.js.map": "/Would-Your-Rather/static/js/main.c2868b53.chunk.js.map",
+    "runtime-main.js": "/Would-Your-Rather/static/js/runtime-main.c2bfd80d.js",
+    "runtime-main.js.map": "/Would-Your-Rather/static/js/runtime-main.c2bfd80d.js.map",
+    "static/js/2.1e603fc8.chunk.js": "/Would-Your-Rather/static/js/2.1e603fc8.chunk.js",
+    "static/js/2.1e603fc8.chunk.js.map": "/Would-Your-Rather/static/js/2.1e603fc8.chunk.js.map",
+    "index.html": "/Would-Your-Rather/index.html",
+    "precache-manifest.a732f3529fea655e721d7e6fd88fb4f3.js": "/Would-Your-Rather/precache-manifest.a732f3529fea655e721d7e6fd88fb4f3.js",
+    "service-worker.js": "/Would-Your-Rather/service-worker.js",
+    "static/css/main.a6b21456.chunk.css.map": "/Would-Your-Rather/static/css/main.a6b21456.chunk.css.map",
+    "static/js/2.1e603fc8.chunk.js.LICENSE.txt": "/Would-Your-Rather/static/js/2.1e603fc8.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/Would-Your-Rather/static/media/Character Illustration.ac512654.png",
+    "static/media/index.css": "/Would-Your-Rather/static/media/Sweet couple talking sitting on bench.6b31cc59.png",
+    "static/media/crown.svg": "/Would-Your-Rather/static/media/crown.84fc9273.svg",
+    "static/media/login.svg": "/Would-Your-Rather/static/media/login.9a76e74e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2bfd80d.js",
+    "static/js/2.1e603fc8.chunk.js",
+    "static/css/main.a6b21456.chunk.css",
+    "static/js/main.c2868b53.chunk.js"
+  ]
+}
